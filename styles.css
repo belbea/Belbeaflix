@@ -63,6 +63,10 @@ height: 200px;
 
 
 }
+.categoria h2 {
+color:rgb(119, 6, 21);
+
+}
 
 .categoria-videos img:hover {
     opacity: 1.0;
